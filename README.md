@@ -1,4 +1,4 @@
-# 📚 Oracle Book Manager (Python GUI) — CS550 Project 2
+# 📚 Oracle Book Manager System (Python GUI)
 
 This project is developed for **CS550 – Database Systems** (Spring 2025) at George Mason University. It is a **Python GUI application** built using `customtkinter` and `oracledb` that connects to the Oracle DB on GMU’s Artemis server. The application allows users to manage book data and perform operations like searching, updating, and replacing damaged book copies.
 
@@ -71,8 +71,14 @@ python main.py
 ## 🖼️ Screenshots
 
 ![image](https://github.com/user-attachments/assets/cc566eae-ed64-4567-be00-5c849c342f51)
-
-
+![image](https://github.com/user-attachments/assets/f705267f-806d-4f02-996e-f5fea3c5b9ad)
+![image](https://github.com/user-attachments/assets/e6a7795c-a895-430d-a151-3765dfe9f295)
+![image](https://github.com/user-attachments/assets/cf18b526-6aa4-45b2-b78d-f8cbe618b249)
+![image](https://github.com/user-attachments/assets/9fd3a665-100e-40a4-b6ef-9655367282fa)
+![image](https://github.com/user-attachments/assets/00bea691-bede-48c4-a131-4821b3113fbd)
+![image](https://github.com/user-attachments/assets/1b4eb511-b2b1-48c1-89d5-2f65489c1e2d)
+![image](https://github.com/user-attachments/assets/d7d91a85-4f49-459b-bf37-02061c7e119e)
+![image](https://github.com/user-attachments/assets/5f75c384-092a-4dfb-8e43-d1819f513173)
 
 ---
 
