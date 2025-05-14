@@ -1,4 +1,4 @@
-# 📚 Oracle Book Manager System (Python GUI)
+# 📚 Library Management System (Python GUI - SQL)
 
 This project is developed for **CS550 – Database Systems** (Spring 2025) at George Mason University. It is a **Python GUI application** built using `customtkinter` and `oracledb` that connects to the Oracle DB on GMU’s Artemis server. The application allows users to manage book data and perform operations like searching, updating, and replacing damaged book copies.
 
